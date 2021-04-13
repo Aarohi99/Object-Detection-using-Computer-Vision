@@ -1,3 +1,4 @@
-# OBJECT-DETECTION-CHARACTER-RECOGNITION-OCR-
-TASK -1 OF SPARKS FOUNDATION INTERN
+Object Detection using Computer Vision.
+TASK-1 GRIP 
+Implement an object detector which identifies the classes of the objects in a real time video.
 
